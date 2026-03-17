@@ -1,0 +1,23 @@
+# Amazon Sales Dashboard
+
+## Objective
+Built an interactive Excel dashboard to analyze sales performance across cities, states, and product categories.
+
+## Tools Used
+* Microsoft Excel
+* Pivot Tables
+* Pivot Charts
+* Data Cleaning
+* KPI Cards
+
+## Dashboard Highlights
+* Total Sales tracking
+* Units sold analysis
+* City-wise sales trends
+* State-wise performance comparison
+* Product-wise sales funnel
+
+## Key Insights
+* Identified high-performing cities and states
+* Compared product contribution to overall sales
+* Summarized business KPIs for quick decision-making
